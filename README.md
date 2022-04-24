@@ -1,3 +1,3 @@
 # amgcode
 
-[x] This is a repo for **learning** purposes.
+- [x] This is a repo for **learning** purposes.
